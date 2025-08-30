@@ -11,6 +11,8 @@ Conducted EDA to identify key market trends and patterns
 
 Key Insights:
 
+<img width="1251" height="755" alt="image" src="https://github.com/user-attachments/assets/41052569-5159-4554-8b21-f98819b43f63" />
+
 3 BHK flats dominate the Hyderabad rental market
 
 Kokapet, Kondapur, and the Financial District lead with the highest rental counts
