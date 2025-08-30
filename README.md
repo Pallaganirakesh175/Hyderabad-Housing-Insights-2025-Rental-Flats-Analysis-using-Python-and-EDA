@@ -1,5 +1,5 @@
 # Hyderabad-Housing-Insights-2025-Rental-Flats-Analysis-using-Python-and-EDA
-Over the past few weeks, I worked on an exciting Exploratory Data Analysis (EDA) project using Python to uncover insights from the Hyderabad rental housing market.
+I worked on an exciting Exploratory Data Analysis (EDA) project using Python to uncover insights from the Hyderabad rental housing market.
 
 Project Highlights:
 
